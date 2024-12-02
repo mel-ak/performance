@@ -1,0 +1,22 @@
+{
+  "name": "mel-ak/performance",
+  "description": "Performance checker pack",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Melake Sisay",
+      "email": "melakesisay@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "MelAk\\Performance\\": "src/"
+    }
+  },
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  }
+}
